@@ -1,0 +1,373 @@
+[{
+    "locale": "af",
+    "country": "Afrikaans",
+    "string": "Geniet die dag."
+}, {
+    "locale": "ar",
+    "country": "Arabic",
+    "string": "أتمنى لك نهارا سعيد."
+}, {
+    "locale": "az",
+    "country": "Azerbaijani",
+    "string": "Gözəl gün arzu edirəm."
+}, {
+    "locale": "be",
+    "country": "Belarusian",
+    "string": "Добрага дня."
+}, {
+    "locale": "bg",
+    "country": "Bulgarian",
+    "string": "Приятен ден."
+}, {
+    "locale": "bn",
+    "country": "Bengali",
+    "string": "আপনার দিনটি শুভ হোক."
+}, {
+    "locale": "bs",
+    "country": "Bosnian",
+    "string": "Ugodan dan."
+}, {
+    "locale": "ca",
+    "country": "Catalan",
+    "string": "Que tinguis un bon dia."
+}, {
+    "locale": "ceb",
+    "country": "Cebuano",
+    "string": "Pagbaton og usa ka nindot nga adlaw."
+}, {
+    "locale": "cs",
+    "country": "Czech",
+    "string": "Hezký den."
+}, {
+    "locale": "cy",
+    "country": "Welsh",
+    "string": "Cael diwrnod braf."
+}, {
+    "locale": "da",
+    "country": "Danish",
+    "string": "Hav en god dag."
+}, {
+    "locale": "de",
+    "country": "German",
+    "string": "Einen schönen Tag noch."
+}, {
+    "locale": "el",
+    "country": "Greek",
+    "string": "Καλή σας μέρα."
+}, {
+    "locale": "en",
+    "country": "English",
+    "string": "Have a nice day."
+}, {
+    "locale": "eo",
+    "country": "Esperanto",
+    "string": "Have a nice day."
+}, {
+    "locale": "es",
+    "country": "Spanish",
+    "string": "Que tengas un buen día."
+}, {
+    "locale": "et",
+    "country": "Estonian",
+    "string": "Head päeva."
+}, {
+    "locale": "eu",
+    "country": "Basque",
+    "string": "Egun ona izan."
+}, {
+    "locale": "fa",
+    "country": "Persian",
+    "string": "روز خوبی داشته باشید."
+}, {
+    "locale": "fi",
+    "country": "Finnish",
+    "string": "Hauskaa päivän jatkoa."
+}, {
+    "locale": "fr",
+    "country": "French",
+    "string": "Bonne journée."
+}, {
+    "locale": "ga",
+    "country": "Irish",
+    "string": "Lá maith agat."
+}, {
+    "locale": "gl",
+    "country": "Galician",
+    "string": "Teña un bo día."
+}, {
+    "locale": "gu",
+    "country": "Gujarati",
+    "string": "તમારો દિવસ શુભ રહે."
+}, {
+    "locale": "ha",
+    "country": "Hausa",
+    "string": "Allah ba da sa&#39;a."
+}, {
+    "locale": "hi",
+    "country": "Hindi",
+    "string": "आपका दिन शुभ हो।"
+}, {
+    "locale": "hmn",
+    "country": "Hmong",
+    "string": "Have a nice day."
+}, {
+    "locale": "hr",
+    "country": "Croatian",
+    "string": "Želim vam ugodan dan."
+}, {
+    "locale": "ht",
+    "country": "Haitian Creole",
+    "string": "Fè yon jou bèl."
+}, {
+    "locale": "hu",
+    "country": "Hungarian",
+    "string": "Legyen szép napod."
+}, {
+    "locale": "hy",
+    "country": "Armenian",
+    "string": "Հաճելի օր."
+}, {
+    "locale": "id",
+    "country": "Indonesian",
+    "string": "Semoga harimu menyenangkan."
+}, {
+    "locale": "ig",
+    "country": "Igbo",
+    "string": "Nwee ọmarịcha ụbọchị."
+}, {
+    "locale": "is",
+    "country": "Icelandic",
+    "string": "Eigðu góðan dag."
+}, {
+    "locale": "it",
+    "country": "Italian",
+    "string": "Buona giornata."
+}, {
+    "locale": "iw",
+    "country": "Hebrew",
+    "string": "שיהיה לך יום נעים."
+}, {
+    "locale": "ja",
+    "country": "Japanese",
+    "string": "良い一日を。"
+}, {
+    "locale": "jw",
+    "country": "Javanese",
+    "string": "Dina becik."
+}, {
+    "locale": "ka",
+    "country": "Georgian",
+    "string": "კარგ დღეს გისურვებთ."
+}, {
+    "locale": "kk",
+    "country": "Kazakh",
+    "string": "Бүгінгі күніңіз жақсы өтсін."
+}, {
+    "locale": "km",
+    "country": "Khmer",
+    "string": "មានថ្ងៃល្អ។"
+}, {
+    "locale": "kn",
+    "country": "Kannada",
+    "string": "ಹ್ಯಾವ್ ಎ ನೈಸ್ ಡೆ."
+}, {
+    "locale": "ko",
+    "country": "Korean",
+    "string": "좋은 하루 되세요."
+}, {
+    "locale": "la",
+    "country": "Latin",
+    "string": "Have a nice day."
+}, {
+    "locale": "lo",
+    "country": "Lao",
+    "string": "ມີມື້ງາມ."
+}, {
+    "locale": "lt",
+    "country": "Lithuanian",
+    "string": "Geros dienos."
+}, {
+    "locale": "lv",
+    "country": "Latvian",
+    "string": "Jauku dienu."
+}, {
+    "locale": "mg",
+    "country": "Malagasy",
+    "string": "Mirary tontolo andro finaritra."
+}, {
+    "locale": "mi",
+    "country": "Maori",
+    "string": "A ani i te ra pai."
+}, {
+    "locale": "mk",
+    "country": "Macedonian",
+    "string": "Имајте убав ден."
+}, {
+    "locale": "ml",
+    "country": "Malayalam",
+    "string": "ഒരു നല്ല ദിനം ആശംസിക്കുന്നു."
+}, {
+    "locale": "mn",
+    "country": "Mongolian",
+    "string": "Өдрийг сайхан өнгөрүүлээрэй."
+}, {
+    "locale": "mr",
+    "country": "Marathi",
+    "string": "गुलमोहराचे एक छान रोप."
+}, {
+    "locale": "ms",
+    "country": "Malay",
+    "string": "Semoga hari anda indah."
+}, {
+    "locale": "mt",
+    "country": "Maltese",
+    "string": "Il-ġurnata t-tajba."
+}, {
+    "locale": "my",
+    "country": "Myanmar (Burmese)",
+    "string": "ကောင်းသောနေ့ဖြစ်ပါစေ။"
+}, {
+    "locale": "ne",
+    "country": "Nepali",
+    "string": "हजुर को दिन राम्रो होस्।"
+}, {
+    "locale": "nl",
+    "country": "Dutch",
+    "string": "Fijne dag."
+}, {
+    "locale": "no",
+    "country": "Norwegian",
+    "string": "Ha en fin dag."
+}, {
+    "locale": "ny",
+    "country": "Chichewa",
+    "string": "Khalani ndi tsiku labwino."
+}, {
+    "locale": "pa",
+    "country": "Punjabi",
+    "string": "ਤੁਹਾਡਾ ਦਿਨ ਅੱਛਾ ਹੋ."
+}, {
+    "locale": "pl",
+    "country": "Polish",
+    "string": "Miłego dnia."
+}, {
+    "locale": "pt",
+    "country": "Portuguese",
+    "string": "Tenha um bom dia."
+}, {
+    "locale": "ro",
+    "country": "Romanian",
+    "string": "O zi bună."
+}, {
+    "locale": "ru",
+    "country": "Russian",
+    "string": "Хорошего дня."
+}, {
+    "locale": "si",
+    "country": "Sinhala",
+    "string": "සුභ දිනයක් වේවා."
+}, {
+    "locale": "sk",
+    "country": "Slovak",
+    "string": "Pekný deň."
+}, {
+    "locale": "sl",
+    "country": "Slovenian",
+    "string": "Imej lep dan."
+}, {
+    "locale": "so",
+    "country": "Somali",
+    "string": "Maalin wanaagsan."
+}, {
+    "locale": "sq",
+    "country": "Albanian",
+    "string": "Ju uroj një ditë të mbarë."
+}, {
+    "locale": "sr",
+    "country": "Serbian",
+    "string": "Желим вам пријатан дан."
+}, {
+    "locale": "st",
+    "country": "Sesotho",
+    "string": "Eba le letsatsi le monate."
+}, {
+    "locale": "su",
+    "country": "Sundanese",
+    "string": "Wilujeng Angkat."
+}, {
+    "locale": "sv",
+    "country": "Swedish",
+    "string": "Ha en bra dag."
+}, {
+    "locale": "sw",
+    "country": "Swahili",
+    "string": "Siku njema."
+}, {
+    "locale": "ta",
+    "country": "Tamil",
+    "string": "ஒரு நல்ல நாள்."
+}, {
+    "locale": "te",
+    "country": "Telugu",
+    "string": "ఒక nice రోజు."
+}, {
+    "locale": "tg",
+    "country": "Tajik",
+    "string": "Рӯзи хуш."
+}, {
+    "locale": "th",
+    "country": "Thai",
+    "string": "ขอให้มีความสุขมาก ๆ ในวันนี้นะ"
+}, {
+    "locale": "tl",
+    "country": "Filipino",
+    "string": "Magandang araw."
+}, {
+    "locale": "tr",
+    "country": "Turkish",
+    "string": "İyi günler."
+}, {
+    "locale": "uk",
+    "country": "Ukrainian",
+    "string": "Гарного дня."
+}, {
+    "locale": "ur",
+    "country": "Urdu",
+    "string": "ایک اچھا دن ہے."
+}, {
+    "locale": "uz",
+    "country": "Uzbek",
+    "string": "Hayrli kun."
+}, {
+    "locale": "vi",
+    "country": "Vietnamese",
+    "string": "Chúc một ngày tốt lành."
+}, {
+    "locale": "yi",
+    "country": "Yiddish",
+    "string": "האב א גוטן טאג."
+}, {
+    "locale": "yo",
+    "country": "Yoruba",
+    "string": "Eni a san e o."
+}, {
+    "locale": "zh",
+    "country": "Chinese",
+    "string": "祝你今天愉快。"
+}, {
+    "locale": "zh-CN",
+    "country": "Chinese (Simplified)",
+    "string": "祝你今天愉快。"
+}, {
+    "locale": "zh-TW",
+    "country": "Chinese (Traditional)",
+    "string": "祝你今天愉快。"
+}, {
+    "locale": "jp",
+    "country": "Japanese",
+    "string": "良い一日を"
+}, {
+    "locale": "zu",
+    "country": "Zulu",
+    "string": "Ujabulele usuku lwakho."
+}]
