@@ -1,0 +1,7 @@
+//colors
+$black:  black;
+$white: white;
+
+//fonts
+$font_0: Lucida Console;
+$font_1: monospace;

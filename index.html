@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Homescreen</title>
+    <meta charset="UTF-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link rel="stylesheet" href="main.min.css" />
+</head>
+
+<body class="container" onload="resize()">
+    <br>
+    <br>
+    <H1 id="header"></H1>
+    <H1 id="clock"></H1>
+    <div id="wrap">
+        <input autofocus type="text" id="q" value="" placeholder="" onkeypress="javascript:handleQuery(event,this.value);" onfocus="this.value=this.value" />
+    </div>
+    <div id="moviediv">
+    </div>
+    <div id="quotediv"></div>
+
+
+    <script src="js/js.cookie.min.js" type="text/javascript"></script>
+    <script src="js/js.js" type="text/javascript"></script>
+
+</body>
+
+
+
+</html>

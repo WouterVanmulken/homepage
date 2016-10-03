@@ -1,0 +1,47 @@
+@import "_var";
+
+body {
+	background: no-repeat center top fixed;
+	background-size: cover;
+	background-image: url("img/background.jpg");
+
+	#header{
+    text-align: center;
+        color: white;
+				font-size: 130%;
+				margin-bottom: 0px;
+  }
+#wrap {
+	display: block;
+	margin: auto;
+	width: 75%;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+#q {
+	text-align: center;
+	width: 100%;
+	border: 2px solid $black;
+	//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+	border-radius: 4px;
+	color: $white;
+	font-size: 24px;
+	padding-left: 40px;
+	font-family: $font_0, $font_1;
+	background-color: transparent;
+	&:focus {
+        outline: none;
+        border: 2px solid black;
+        border-radius: 4px;
+    }
+}
+#moviediv {
+	text-align: center;
+}
+#clock {
+	color: $white;
+	text-align: center;
+	font-size: 200%;
+	margin-top: 30px;
+	    margin-bottom: 0px;}
+}
